@@ -69,4 +69,4 @@ I'm currently focusing on improving my skills in:
 
 ### ⚡ Built with curiosity, code, and a lot of ideas.
 
-**Samiyar SultanZadeh © 2026**
+**Samiyar Soltanzadeh © 2026**
